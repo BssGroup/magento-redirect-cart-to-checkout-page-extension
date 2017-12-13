@@ -1,0 +1,1 @@
+# magento-redirect-cart-to-checkout-page-extension
